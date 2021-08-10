@@ -233,20 +233,184 @@ These are generated from the text size system.
 	--clamp-max: calc(var(--base-text-desktop) * var(--text-adjust-desk-xxl));
 }
 
+/*** 
+TEXT LIGHTNESS VARIANTS
+***/
+
 .text--primary {
 	color: var(--primary);	
+}
+
+.text--primary-hover {
+  color: var(--primary-hover);
+}
+
+.text--primary-ultra-light {
+  color: var(--primary-ultra-light);
+}
+
+.text--primary-light {
+  color: var(--primary-light);
+}
+
+.text--primary-dark {
+  color: var(--primary-dark);
+}
+
+.text--primary-ultra-dark {
+  color: var(--primary-ultra-dark);
+}
+
+.text--primary-trans-80 {
+  color: var(--primary-trans-80);
+}
+
+.text--primary-trans-60 {
+  color: var(--primary-trans-60);
+}
+
+.text--primary-trans-40 {
+  color: var(--primary-trans-40);
+}
+
+.text--primary-trans-20 {
+  color: var(--primary-trans-20);
+}
+
+.text--primary-comp {
+  color: var(--primary-comp);
 }
 
 .text--secondary {
 	color: var(--secondary);	
 }
 
+.text--secondary-hover {
+  color: var(--secondary-hover);
+}
+
+.text--secondary-ultra-light {
+  color: var(--secondary-ultra-light);
+}
+
+.text--secondary-light {
+  color: var(--secondary-light);
+}
+
+.text--secondary-dark {
+  color: var(--secondary-dark);
+}
+
+.text--secondary-ultra-dark {
+  color: var(--secondary-ultra-dark);
+}
+
+.text--secondary-trans-80 {
+  color: var(--secondary-trans-80);
+}
+
+.text--secondary-trans-60 {
+  color: var(--secondary-trans-60);
+}
+
+.text--secondary-trans-40 {
+  color: var(--secondary-trans-40);
+}
+
+.text--secondary-trans-20 {
+  color: var(--secondary-trans-20);
+}
+
+.text--secondary-comp {
+  color: var(--secondary-comp);
+}
+
 .text--accent {
 	color: var(--accent);	
 }
 
+.text--accent-hover {
+  color: var(--accent-hover);
+}
+
+.text--accent-ultra-light {
+  color: var(--accent-ultra-light);
+}
+
+.text--accent-light {
+  color: var(--accent-light);
+}
+
+.text--accent-dark {
+  color: var(--accent-dark);
+}
+
+.text--accent-ultra-dark {
+  color: var(--accent-ultra-dark);
+}
+
+.text--accent-trans-80 {
+  color: var(--accent-trans-80);
+}
+
+.text--accent-trans-60 {
+  color: var(--accent-trans-60);
+}
+
+.text--accent-trans-40 {
+  color: var(--accent-trans-40);
+}
+
+.text--accent-trans-20 {
+  color: var(--accent-trans-20);
+}
+
+.text--accent-comp {
+  color: var(--accent-comp);
+}
+
 .text--base {
 	color: var(--base);	
+}
+
+.text--base-hover {
+  color: var(--base-hover);
+}
+
+.text--base-ultra-light {
+  color: var(--base-ultra-light);
+}
+
+.text--base-light {
+  color: var(--base-light);
+}
+
+.text--base-dark {
+  color: var(--base-dark);
+}
+
+.text--base-ultra-dark {
+  color: var(--base-ultra-dark);
+}
+
+.text--base-trans-80 {
+  color: var(--base-trans-80);
+}
+
+.text--base-trans-60 {
+  color: var(--base-trans-60);
+}
+
+.text--base-trans-40 {
+  color: var(--base-trans-40);
+}
+
+.text--base-trans-20 {
+  color: var(--base-trans-20);
+}
+
+.text--base-comp {
+  color: var(--base-comp);
 }
 
 /*** 
